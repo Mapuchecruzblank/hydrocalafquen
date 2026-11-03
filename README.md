@@ -1,6 +1,6 @@
-# HydroZone Calafquén 
+# Hydrocalafquen 
 
-**HydroZone Calafquén** es una plataforma tecnológica integral para la exploración recreativa, la zonificación acuática y el registro de actividades deportivas en el Lago Calafquén. Combina una interfaz web cartográfica con una aplicación de escritorio/móvil orientada a la bitácora técnica de buceo y entrenamiento de apnea.
+**Hydrocalafquen** es una plataforma tecnológica integral para la exploración recreativa, la zonificación acuática y el registro de actividades deportivas en el Lago Calafquén. Combina una interfaz web cartográfica con una aplicación de escritorio/móvil orientada a la bitácora técnica de buceo y entrenamiento de apnea.
 
 ---
 
