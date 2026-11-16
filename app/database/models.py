@@ -21,7 +21,7 @@ class Equipo(Base):
 
 
 class Inmersion(Base):
-  __tablename__ = 'inmersion'
+  __tablename__ = 'inmersiones'
 
   id = Column(Integer, primary_key=True)
   fecha = Column(
@@ -49,7 +49,5 @@ def inicializar_base_datos():
   """Crea las tablas en la base de datos si no existen."""
   Base.metadata.create_all(engine)
   print('¡Base de datos SQLite inicializada correctamente!')
-
-
 if __name__ == '__main__':
   inicializar_base_datos()
